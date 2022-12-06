@@ -41,11 +41,11 @@ VALUES
 
 INSERT INTO customer (name, address, expenditure)
 VALUES
-("Thapar Renu",   "12121 Richmond Avenue, Texas",      75000000),
+("Thapar Renu",   "12121 Richmond Avenue, Texas",      18000000),
 ("Steven Croft",  "7777 Southwest Street, Florida",   174000000),
 ("Noah Jaffee",   "11375 S Sam, Houston",                     0),
 ("Omar Durrani",  "12121 Richmond Avenue, Texas",       3000000),
-("Venkat Sankar", "8901 Boone Road, California",       18000000),
+("Venkat Sankar", "8901 Boone Road, California",        1000000),
 ("Monique Jones", "8850 Long Point Road, Redwood",            0),
 ("Martha Jones",  "6630 Roxburgh Street, New Jersey",         0)
 ;
@@ -70,9 +70,9 @@ VALUES
 
 INSERT INTO transactions (art_name, cust_name, day)
 VALUES
-("Wheatfield with Cypresses", "Steven Croft",  "2022-03-20"),
-("Lamp in front of a Window",   "Steven Croft",  "2022-04-30"),
-("The Baptism of Christ",       "Thapar Renu",   "2022-05-02"),
-("The Mackerel",                "Omar Durrani",  "2022-06-17"),
-("Crown of Roses",              "Venkat Sankar", "2022-06-21")
+("Wheatfield with Cypresses", "Steven Croft",  "2021-03-20"),
+("Lamp in front of a Window", "Steven Croft",  "2021-04-30"),
+("The Sacrifice to Vesta",    "Thapar Renu",   "2022-05-02"),
+("The Mackerel",              "Omar Durrani",  "2022-06-17"),
+("Coastal landscape",         "Venkat Sankar", "2022-06-21")
 ;
