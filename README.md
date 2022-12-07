@@ -33,7 +33,7 @@ You can assume more requirement(s) to make your solution more realistic.
    details should include artwork name, group, artist name, price, date of
    purchase and customer name. The report must be sorted accordingly to the
    group. The subtotal of each group needs to be displayed.
-3. Generate a bar graph that displays the sales in each moth for a given year.
+3. Generate a bar graph that displays the sales in each month for a given year.
 4. Generate a pie chart that displays the sales of each group for a given year.
 
 # Setup
