@@ -54,8 +54,8 @@ You can assume more requirement(s) to make your solution more realistic.
 
 # Screenshots
 
-![index.html](screenshots/index.png?raw=true "Index Page")
-![available_art.php](screenshots/available_art.png?raw=true "Available Artwork")
-![procurement.php](screenshots/procurement.png?raw=true "Procurement")
-![monthly_sales.php](screenshots/monthly_sales.png?raw=true "Monthly Sales")
-![grouped_sales.php](screenshots/grouped_sales.png?raw=true "Sales per Art Group")
+![index.html](screenshots/index.png)
+![available_art.php](screenshots/available_art.png)
+![procurement.php](screenshots/procurement.png)
+![monthly_sales.php](screenshots/monthly_sales.png)
+![grouped_sales.php](screenshots/grouped_sales.png)
